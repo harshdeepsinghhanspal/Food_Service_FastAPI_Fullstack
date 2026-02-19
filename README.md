@@ -1,4 +1,4 @@
-# 🍔Food Store Lroject
+# 🍔Food Store Project
 
 A modern full-stack web application built with FastAPI that allows users to order and store details in an Excel file.
 
